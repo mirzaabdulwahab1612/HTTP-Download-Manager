@@ -8,8 +8,6 @@ python client.py  --h
 usage: client.py [-h] -n NTHREADS -i INTERVAL -c TLP -f SOURCEADDRESS -o
                  DESTINATIONADDRESS [-r]
                  
-optional arguments:
-
   -h, --help            show this help message and exit
   
   -n NTHREADS, --nthreads NTHREADS
